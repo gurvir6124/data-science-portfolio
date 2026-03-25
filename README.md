@@ -1,6 +1,6 @@
 # data-science-portfolio
 
-This repository contains a selection of projects completed during my Physics degree at Imperial College London, with a focus on computational modelling, statistics, and machine learning.
+This repository contains 3 projects completed during my Physics degree at Imperial College London, with a focus on computational modelling, statistics, and machine learning.
 
 ## Projects
 
