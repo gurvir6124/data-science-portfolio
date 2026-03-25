@@ -1,3 +1,0 @@
-# Particle Collision Simulation
-
-This project is a Python simulation of particles moving within a circular container, created to model the behaviour of a simple gas-like system. The simulation calculates the time to collision between particles and the container, updates their motion, and implements elastic collisions based on conservation of momentum and energy. By evolving the system over time, the simulation allows analysis of quantities such as particle speeds, kinetic energy, pressure, and temperature, linking microscopic particle dynamics to macroscopic thermodynamic behaviour. The project was developed using Python with NumPy for numerical calculations and Matplotlib for visualisation.
